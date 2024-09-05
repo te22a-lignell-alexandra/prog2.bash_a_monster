@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj": {}
+    "c:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj": {
+    "c:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj",
+        "projectUniqueName": "c:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj",
         "projectName": "prog2.bash_a_monster",
-        "projectPath": "C:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj",
+        "projectPath": "c:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\prog2.bash_a_monster.csproj",
         "packagesPath": "C:\\Users\\alexandra.lignell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\obj\\",
+        "outputPath": "c:\\Users\\alexandra.lignell\\Documents\\Programmering\\C#\\prog2.bash_a_monster\\prog2.bash_a_monster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

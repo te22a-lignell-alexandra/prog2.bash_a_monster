@@ -1,0 +1,15 @@
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\bin\Debug\net8.0\prog2.bash_a_monster.exe
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\bin\Debug\net8.0\prog2.bash_a_monster.deps.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\bin\Debug\net8.0\prog2.bash_a_monster.runtimeconfig.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\bin\Debug\net8.0\prog2.bash_a_monster.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\bin\Debug\net8.0\prog2.bash_a_monster.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.AssemblyInfoInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.AssemblyInfo.cs
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.csproj.CoreCompileInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.sourcelink.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\refint\prog2.bash_a_monster.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\prog2.bash_a_monster.genruntimeconfig.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog2.bash_a_monster\prog2.bash_a_monster\obj\Debug\net8.0\ref\prog2.bash_a_monster.dll
