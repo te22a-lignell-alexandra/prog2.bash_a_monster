@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prog2.bash_a_monster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e74ddc998b5942e7618922bc1b225e8033e1b0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a224079a9e8b9fc01ec4806779b193d707e6872c")]
 [assembly: System.Reflection.AssemblyProductAttribute("prog2.bash_a_monster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prog2.bash_a_monster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

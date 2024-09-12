@@ -12,14 +12,14 @@ while (player.Name.Length < 1)
 
 Console.WriteLine($"{player.Name}...");
 
-Monster hans = new Monster();
-Monster.MakeAMonster(hans, "Hans", 2, 1, 1);
-Console.WriteLine($"A monster appears. His name is {hans.Name}");
-Monster.MonsterInterraction(hans, player);
+Monster monster = new Monster();
+Monster.MakeAMonster(monster, "Hans", 2, 1, 1);
+Console.WriteLine($"A monster appears. His name is {monster.Name}");
+Monster.MonsterInterraction(monster, player);
 
 
-Console.WriteLine(hans.CurrentMood);
-Console.WriteLine(hans.Hp);
-Console.WriteLine(player.Hp);
+Console.WriteLine($"{monster.Name} mood is {monster.CurrentMood}");
+Console.WriteLine($"{monster.Name} hp: {monster.Hp}");
+Console.WriteLine($"{player.Name} hp: {player.Hp}");
 
 Console.ReadLine();
